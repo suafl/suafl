@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/demo/?color=FF114BE9&background=32FFAB00&lines=Hi+I'm+Mohammed++Sufyan+Arshi+Khan" />
+</p>
+
 # 💫 About Me:
 🌱 I’m currently learning Full-Stack Web Development MERN-Stack<br>🎓 Completed 100 Days: The Complete Python Pro Bootcamp<br>🤖 Interested in AI + Cybersecurity & Web Development<br>💡 Currently building projects to strengthen real-world skills<br>📫 Reach me on LinkedIn: @Mohamemd Sufyan Arshi Khan<br>🖌️ Other Skills: Graphic Designer & Photography
 
