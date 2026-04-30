@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?color=FF114BE9&background=32FFAB00&lines=Hi+I'm+Mohammed++Sufyan+Arshi+Khan" />
+  <img src="https://readme-typing-svg.demolab.com/?color=FF69B4&center=true&vCenter=true&speed=50&pause=1000&lines=Hi+I'm+Mohammed+Sufyan+Arshi+Khan!;Graphic+Designer+%7C+Web+Development;Building+Projects+%F0%9F%9A%80" />
 </p>
 
 # 💫 About Me:
