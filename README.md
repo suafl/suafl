@@ -12,6 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=suafl&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=suafl&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake gif](https://github.com/suafl/suafl/blob/output/github-snake-dark.svg)
+![snake animation](https://github.com/suafl/suafl/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
