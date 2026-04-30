@@ -14,4 +14,4 @@
 
 ![snake animation](https://github.com/suafl/suafl/blob/output/github-contribution-grid-snake2.svg)
 
-[![](https://komarev.com/ghpvc/?username=suafl&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=suafl&label=Profile%20Views&color=ff69b4&style=flat)
