@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com/?color=FF69B4&center=true&vCenter=true&speed=50&pause=1000&lines=Hi+I'm+Mohammed+Sufyan+Arshi+Khan!;Graphic+Designer+%7C+Web+Development;Building+Projects+%F0%9F%9A%80" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/suafl/suafl/output/github-contribution-grid-snake-dark.svg)
+
 # 💫 About Me:
 🌱 I’m currently learning Full-Stack Web Development MERN-Stack<br>🎓 Completed 100 Days: The Complete Python Pro Bootcamp<br>🤖 Interested in AI + Cybersecurity & Web Development<br>💡 Currently building projects to strengthen real-world skills<br>📫 Reach me on LinkedIn: @Mohamemd Sufyan Arshi Khan<br>🖌️ Other Skills: Graphic Designer & Photography
 
@@ -15,8 +17,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=suafl&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=suafl&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=suafl&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Snake animation](https://raw.githubusercontent.com/suafl/suafl/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=suafl&label=Profile%20Views&color=ff69b4&style=flat)
 
