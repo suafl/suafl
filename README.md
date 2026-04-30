@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🌱 I’m currently lewarning Full-Stack Web Development MERN-Stack<br>🎓 Completed 100 Days: The Complete Python Pro Bootcamp<br>🤖 Interested in AI + Cybersecurity & Web Development<br>💡 Currently building projects to strengthen real-world skills<br>📫 Reach me on LinkedIn: @Mohamemd Sufyan Arshi Khan<br>🖌️ Other Skills: Graphic Designer & Photography
+🌱 I’m currently learning Full-Stack Web Development MERN-Stack<br>🎓 Completed 100 Days: The Complete Python Pro Bootcamp<br>🤖 Interested in AI + Cybersecurity & Web Development<br>💡 Currently building projects to strengthen real-world skills<br>📫 Reach me on LinkedIn: @Mohamemd Sufyan Arshi Khan<br>🖌️ Other Skills: Graphic Designer & Photography
 
 
 ## 🌐 Socials:
